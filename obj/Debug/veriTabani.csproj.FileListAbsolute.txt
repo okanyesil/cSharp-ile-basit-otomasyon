@@ -1,0 +1,14 @@
+c:\users\okan\documents\visual studio 2013\Projects\veriTabani\veriTabani\bin\Debug\veriTabani.exe.config
+c:\users\okan\documents\visual studio 2013\Projects\veriTabani\veriTabani\bin\Debug\veriTabani.exe
+c:\users\okan\documents\visual studio 2013\Projects\veriTabani\veriTabani\bin\Debug\veriTabani.pdb
+c:\users\okan\documents\visual studio 2013\Projects\veriTabani\veriTabani\obj\Debug\veriTabani.Properties.Resources.resources
+c:\users\okan\documents\visual studio 2013\Projects\veriTabani\veriTabani\obj\Debug\veriTabani.csproj.GenerateResource.Cache
+c:\users\okan\documents\visual studio 2013\Projects\veriTabani\veriTabani\obj\Debug\veriTabani.exe
+c:\users\okan\documents\visual studio 2013\Projects\veriTabani\veriTabani\obj\Debug\veriTabani.pdb
+C:\Users\OKAN\documents\visual studio 2013\Projects\veriTabani\veriTabani\obj\Debug\veriTabani.frm_istatistik.resources
+C:\Users\OKAN\documents\visual studio 2013\Projects\veriTabani\veriTabani\obj\Debug\veriTabani.frm_ana.resources
+C:\Users\OKAN\documents\visual studio 2013\Projects\veriTabani\veriTabani\obj\Debug\veriTabani.frm_grafik.resources
+C:\Users\OKAN\documents\visual studio 2013\Projects\veriTabani\veriTabani\obj\Debug\veriTabani.frm_giris.resources
+C:\Users\OKAN\documents\visual studio 2013\Projects\veriTabani\veriTabani\obj\Debug\veriTabani.frm_raporla.resources
+C:\Users\OKAN\Documents\Visual Studio 2013\Projects\veriTabani\veriTabani\obj\Debug\veriTabani.csprojAssemblyReference.cache
+C:\Users\OKAN\Documents\Visual Studio 2013\Projects\veriTabani\veriTabani\obj\Debug\veriTabani.csproj.CoreCompileInputs.cache
